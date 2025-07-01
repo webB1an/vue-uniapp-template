@@ -1,0 +1,22 @@
+{
+	"easycom": {
+		"autoscan": true,
+		"custom": {
+			"^wd-(.*)": "wot-design-uni/components/wd-$1/wd-$1.vue"
+		}
+	},
+	"globalStyle": {
+		"backgroundColor": "#F8F8F8",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app"
+	},
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		}
+	]
+}
