@@ -1,6 +1,22 @@
 # VUE-UNIAPP-TEMPLATE
 
+## 启动
+
+依赖安装
+
+```
+pnpm install
+```
+
+h5 启动
+
+```
+pnpm run dev:h5
+```
+
 ## 集成
+
+基于 uniapp + vue3 + typescript 开发，集成 eslint、prettier、stylelint、husky、lint-staged、commitizen、cz-git 等工具，确保代码规范与质量。
 
 - 代码规范化相关
   - eslint
